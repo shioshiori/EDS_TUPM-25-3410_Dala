@@ -143,7 +143,9 @@ All generated files are saved inside the `outputs/` folder.
 
 ## Researchers
 Sandrex Dala
+
 Bachelor of Science in Electronics and Communications Engineering (ECE)
+
 TUPM-25-3410
 
 ---
